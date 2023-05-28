@@ -1,0 +1,22 @@
+html {
+    background-color: black;
+}
+
+#home {
+    position: absolute;
+    left: 15px;
+}
+
+#rules {
+    position: absolute;
+    left: 70px;
+}
+
+#wiki {
+    position: absolute;
+    left: 120px;
+}
+
+.tab {
+    margin-left: 30px;
+}
